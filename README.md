@@ -19,28 +19,6 @@
 
 ---
 
-## 📡 CORE STATS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iSlyFoxii&show_icons=true&theme=tokyonight&title_color=00F7FF&icon_color=00F7FF" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSlyFoxii&layout=compact&theme=tokyonight&title_color=00F7FF" height="160"/>
-</p>
-
----
-
-## 🏆 TROPHIES
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iSlyFoxii&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 🎧 SPOTIFY NOW PLAYING
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&bar_color=00F7FF&bar_color_cover=true" />
-</p>
-
----
-
 ## 🌐 CONNECT
 <p align="center">
 <a href="https://linkedin.com/in/lee-iangomez" target="_blank">
